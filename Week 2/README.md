@@ -32,3 +32,13 @@ The dataset reveals a high level of market concentration, where a few top-tier s
 ### In 3–4 sentences, write your interpretation of the results. (What does this tell you about the dataset?)
 
 The dataset reveals a high level of market concentration, where a few top-tier suppliers like E & J Gallo Winery and Diageo dominate total sales volume compared to hundreds of smaller vendors. The significantly higher averages in Warehouse Sales compared to Retail Sales indicate that the Montgomery County system functions primarily as a high-volume distribution hub rather than just a direct-to-consumer retailer.
+
+
+### WEEK_2_SESSION_4
+
+## Retail and Warehouse Sales Data Analysis
+## Project Overview
+
+This project focuses on cleaning, processing, and performing feature engineering on a retail dataset containing inventory and sales information across different channels (Retail vs. Warehouse).
+
+The goal is to prepare a "clean" dataset for analysis by handling missing values, standardizing codes, and creating performance metrics.

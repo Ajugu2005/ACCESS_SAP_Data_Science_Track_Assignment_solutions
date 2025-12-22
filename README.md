@@ -11,3 +11,5 @@ Session
   -  Introduction to the tracK and github
   -  Assignment
 
+
+### The week_2_session_1.py is suppossed to be week_2_session_3.py
